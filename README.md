@@ -1,2 +1,2 @@
 # Khadija-demo
-Starting my First Github Repository.
+Starting my First Git Repository.
